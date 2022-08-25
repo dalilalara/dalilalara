@@ -1,4 +1,17 @@
-### Hi there 👋
+## Hi I'm, Dalila Lara! 
+
+### Master of Envrionmental Data Science Candidate, UC Santa Barbara
+
+
+### What I am up to? 
+- 💻 I'm currently a student in the Master's of Envrionmental Data Science (MEDS) program at the Bren School of Environmental Science and Management at   UCSB. 
+  
+  
+  
+
+
+
+ 
 
 <!--
 **dalilalara/dalilalara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +26,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+your background intrestes 
+what you're up to these days 
+links to personal websites 
 -->
+
+
+
+
