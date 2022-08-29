@@ -1,12 +1,12 @@
 <h1 align = "center">Dalila Lara</h1> 
 
-<h3 align = "center> Master of Envrionmental Data Science Student @ UC Santa Barbara (UCSB)</h3>
+<h3 align = "center"> Master of Envrionmental Data Science Student @ UC Santa Barbara (UCSB)</h3>
 
 👩🏽‍💻 **Pronouns:** she/her 
 
 🐦 **Twitter:** [@dali_nl](https://twitter.com/dali_nl)
 
-💬 **LinkedIn** [dalila-lara] (www.linkedin.com/in/dalilalara)
+💬 **LinkedIn** [dalila-lara](www.linkedin.com/in/dalilalara)
 
 ### What am I up to? 
 🌱 I'm currently a student in the Master's of Envrionmental Data Science (MEDS) program at the Bren School of Environmental Science and Management at UCSB. I plan to use my learned data science skills towards environmental sustainability and conservation, all while empowering underrepresented minorities to enter the field of environmental science.
