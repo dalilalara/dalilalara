@@ -1,6 +1,6 @@
 <h1 align = "center">Dalila Lara</h1> 
 
-<h3 align = "center"> Envrionmental Data Scientist </h3>
+<h3 align = "center"> Environmental Data Scientist </h3>
 
 👩🏽‍💻 **Pronouns:** she/her 
 
