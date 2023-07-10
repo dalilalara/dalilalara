@@ -8,6 +8,8 @@
 
 💬 **LinkedIn** [dalila-lara](www.linkedin.com/in/dalilalara)
 
+🌲 **Personal Website** [dalilalara.github.io](https://dalilalara.github.io)
+
 ### What am I up to? 
 🌱 I'm a recent graduate with a Master's of Environmental Data Science [(MEDS)](https://ucsb-meds.github.io) program of the Bren School of Environmental Science and Management at UC Santa Barbara. I plan to use my learned data science skills towards environmental sustainability and conservation, all while empowering underrepresented minorities to enter the field of environmental science.
 
